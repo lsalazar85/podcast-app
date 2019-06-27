@@ -23,7 +23,7 @@ const About = () => {
                     color: #fff;
                 }
 
-                h1 {
+                h1 { 
                     color: #daedfd;
                 }
 
